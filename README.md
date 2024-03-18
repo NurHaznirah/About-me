@@ -26,6 +26,7 @@ Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Ba
 <h3>Badges</h3>
 <a href="http://www.github.com/NurHaznirah"><img src="https://github-readme-stats.vercel.app/api?username=NurHaznirah&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="NUR HAZNIRAH's GitHub stats" /></a>
 <a href="http://www.github.com/NurHaznirah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NurHaznirah&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/NurHaznirah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?user=NurHaznirah&layout=compact&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurHaznirah&layout=compact)](https://github.com/NurHaznirah)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=NurHaznirah.NurHaznirah)](https://www.NurHaznirah.dev/)
