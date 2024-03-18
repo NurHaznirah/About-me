@@ -22,3 +22,5 @@ Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Ba
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurHaznirah&layout=compact)](https://github.com/NurHaznirah)
