@@ -1,6 +1,6 @@
 # Hello, I am Nur Haznirah binti Hazman
 
-## Introduction 👋
+### Introduction 👋
 </br>
 Hi there, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Bachelor of Computer Science in Bioinformatics</b> at UTM, Skudai.
 
