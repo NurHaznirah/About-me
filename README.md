@@ -1,8 +1,8 @@
 # Hello, everyone!
 
 ## 💫 About Me:
-Hi there, I'm Nur Haznirah Binti Hazman, a fourth-year student pursuing a Bachelor of Computer Science in Bioinformatics at UTM, Skudai.<br>🔭 I’m currently working on my final year project (PSM 2).
-</br>
+Hi there, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Bachelor of Computer Science in Bioinformatics</b> at UTM, Skudai.
+* 🔭 I’m currently working on my final year project (PSM 2).
 
 ## 🤝 Connect with me:
 * 📧 Can contact me at [nurhaznirah@graduate.utm.my](mailto:nurhaznirah@graduate.utm.my)
