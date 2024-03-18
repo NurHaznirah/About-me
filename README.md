@@ -2,7 +2,7 @@
 
 <b>Introduction:</b>
 <br>
-Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Bachelor of Computer Science in Bioinformatics</b> at UTM, Skudai. I am consistently eager to expand my knowledge and eagerly anticipate delving into fresh prospects to create a beneficial influence in the technology world.
+Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Bachelor of Computer Science in Bioinformatics</b> at UTM, Skudai.
 
 <ul>
   <li>📧 You can contact me at <u>nurhaznirah@graduate.utm.my</u></li>
@@ -23,4 +23,5 @@ Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Ba
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=NurHaznirah)](https://github.com/NurHaznirah)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurHaznirah&layout=compact)](https://github.com/NurHaznirah)
