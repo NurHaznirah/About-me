@@ -22,4 +22,4 @@ Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Ba
   src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white",
   src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white",
   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-  />
+  /img>
