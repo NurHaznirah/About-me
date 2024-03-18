@@ -1,11 +1,11 @@
 # Hello, I am Nur Haznirah binti Hazman
 
 <b>Introduction:</b>
-<br>
-Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Bachelor of Computer Science in Bioinformatics</b> at UTM, Skudai.
+</br>
+Hi there, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Bachelor of Computer Science in Bioinformatics</b> at UTM, Skudai.
 
 <ul>
-  <li>📧 You can contact me at <u>nurhaznirah@graduate.utm.my</u></li>
+  <li>📧 Can contact me at <u>nurhaznirah@graduate.utm.my</u></li>
 </ul>  
 
 <h3>Skills</h3>
@@ -23,10 +23,9 @@ Hi, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a <b>Ba
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>Badges</h3>
-<a href="http://www.github.com/NurHaznirah"><img src="https://github-readme-stats.vercel.app/api?username=NurHaznirah&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="NUR HAZNIRAH's GitHub stats" /></a>
+<h3>Github Stats</h3>
 <a href="http://www.github.com/NurHaznirah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NurHaznirah&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NurHaznirah)](https://github.com/NurHaznirah)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurHaznirah&layout=compact)](https://github.com/NurHaznirah)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=NurHaznirah.NurHaznirah)](https://www.NurHaznirah.dev/)
